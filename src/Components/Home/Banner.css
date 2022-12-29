@@ -1,0 +1,21 @@
+.Banner-container{
+    /* background-image: url('http: //velikorodnov.com/html/churhius/images/1920x980_slide2.jpg'); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:450px ;
+    width: 100%;
+}
+.banner-content{
+margin: 0 auto;
+color: #fff;
+padding: 60px ;
+}
+.banner-content button{
+    background: transparent;
+    padding: 14px 30px;
+   color: #fff;
+   border: 2px solid #fff;
+   cursor: pointer;
+   margin-top: 20px;
+}
